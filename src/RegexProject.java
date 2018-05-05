@@ -11,7 +11,7 @@ public class RegexProject {
 
         Pattern p2 = Pattern.compile("....?...\\s.....s+io?n"); //+ matches one or more of the previous element
         Matcher m2 = p2.matcher("Regular Expression");      // ?: matches 0 or more occurence of he previous element
-        System.out.println(m2.matches());
+        System.out.println(m2.matches()); // true
     }
 
 }
