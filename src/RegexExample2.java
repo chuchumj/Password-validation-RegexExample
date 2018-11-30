@@ -1,4 +1,4 @@
-//Program for validation of password for a certain format specified by the Regex
+///Program for validation of password for a certain format specified by the Regex
 import java.util.regex.*;
 import java.util.Scanner;
 public class RegexExample2 {
