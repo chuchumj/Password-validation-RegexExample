@@ -1,7 +1,7 @@
 ///Program for validation of password for a certain format specified by the Regex
 import java.util.regex.*;
 import java.util.Scanner;
-public class RegexExample2 {
+public class PasswordValidationRegexExample2 {
     public static void main(String args[]){
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter your email");
